@@ -90,8 +90,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva4164&" alt="udayveerus" /></p>
  <br />
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Shiva4164&theme=rogue" alt="activitygraph" /> </p>
 <br />
