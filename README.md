@@ -45,6 +45,8 @@
 <!--   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" />  -->
 </p>
 <!-- <img src="" alt="" /> -->
+<br>
+<br>
 <h2 align="center"><i>Tools Use</i></h2>
 <p align="center">
 
@@ -65,7 +67,8 @@
 <!--   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" alt="miro" /> -->
 <!--   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /> -->
 </p>
-
+<br>
+<br>
 <h2 align="center"><i>Let's Connect!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
@@ -73,12 +76,14 @@
   <a title="chandragirisivaprasad1@gmail.com" href="mailto:chandragirisivaprasad1@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail" /></a>
  
 </p>
+<br>
+<br>
 <h2 align="center">📊  Github Stats</h2>
 <br/>
 
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" align="center"/>
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" align="center"/>
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" align="center"/>
 </div>
 
  <br />
