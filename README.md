@@ -4,7 +4,7 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Full-Stack+Web+Developer;Nice+to+meet+you...)
  
  
- <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building websites that improve the everyday experience for people.</h3>
+ <h2 align="center" margin="0px">A Passionate Full-Stack Web Developer</h2>
 
 
 ### 👨🏻‍💻 About Me:
@@ -13,13 +13,13 @@
        height="200px" width="auto" align="right"
       />
 
-- 🙋‍♂️ All about me is at **[My Website](https://iridescent-mandazi-4f1f92.netlify.app/)**
+- 🙋‍♂️ **[About me](https://iridescent-mandazi-4f1f92.netlify.app/)**
 
 - 💓 I love developing websites and coding.
 
 - 👨‍💻 Interests - Web 3.0.
 
-- 📫 How to reach me chandragirisivaprasad1@gmail.com
+- 📫 To contact me chandragirisivaprasad1@gmail.com
 
 <br>
 <br>
@@ -45,7 +45,7 @@
 <!--   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styles-components" />  -->
 </p>
 <!-- <img src="" alt="" /> -->
-<h2 align="center"><i>Tools | Use</i></h2>
+<h2 align="center"><i>Tools Use</i></h2>
 <p align="center">
 
 <!--   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" /> -->
@@ -66,26 +66,26 @@
 <!--   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /> -->
 </p>
 
-<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+<h2 align="center"><i>Let's Connect!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/4164sivaprasad/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="chandragirisivaprasad1@gmail.com" href="mailto:chandragirisivaprasad1@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a title="chandragirisivaprasad1@gmail.com" href="mailto:chandragirisivaprasad1@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail" /></a>
  
 </p>
-<h2>📊  Github Stats</h2>
+<h2 align="center">📊  Github Stats</h2>
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" />
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" align="center"/>
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" align="center"/>
 </div>
 
  <br />
 <!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Shiva4164&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva4164&theme=vision-friendly-dark" alt=""/></p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiva4164&theme=tokyonight" alt="summarycard"/> </p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiva4164&theme=tokyonight" alt=""/> </p>
 
 <hr />
 
@@ -93,7 +93,7 @@
  Show some ❤️ by staring some of the repositories!
 </h3>
 <br>
-<h3 align="center"> 
+<!-- <h3 align="center"> 
   Visitor count <br><br>
   <img  src="https://profile-counter.glitch.me/Shiva4164/count.svg" />
-</h3>
+</h3> -->
