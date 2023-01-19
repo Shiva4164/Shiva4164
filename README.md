@@ -81,8 +81,8 @@
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" />
 </div> -->
 <div>
-  <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" width="50%" alt="Akhil's github stats" /></a>
- <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=buefy&hide_border=true" width="40%" /></a>
+  <a href="https://github.com/Shiva4164"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" width="50%" alt="Akhil's github stats" /></a>
+ <a href="https://github.com/Shiva4164"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=buefy&hide_border=true" width="40%" /></a>
 </div>
  <br />
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Shiva4164&theme=rogue" alt="activitygraph" /> </p>
