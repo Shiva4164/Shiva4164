@@ -77,8 +77,8 @@
 <br/>
 
 <div>
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=blue" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=blue" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" />
 </div>
 <!-- <p align="center">
 <a href="https://github.com/Shiva4164">
