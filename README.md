@@ -10,8 +10,7 @@
 ### 👨🏻‍💻 About Me:
 
 <img   src="https://tse1.mm.bing.net/th?id=OIP.ql8TuCTff1A8odrS3K4JvAHaEX&pid=Api&P=0"
-       height="200px" width="auto" align="right"
-      />
+       height="200px" width="auto" align="right" margin-top="-20px"/>
 
 - 🙋‍♂️ **[About me](https://iridescent-mandazi-4f1f92.netlify.app/)**
 
@@ -46,7 +45,6 @@
 </p>
 <!-- <img src="" alt="" /> -->
 <br>
-<br>
 <h2 align="center"><i>Tools Use</i></h2>
 <p align="center">
 
@@ -68,7 +66,6 @@
 <!--   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion" /> -->
 </p>
 <br>
-<br>
 <h2 align="center"><i>Let's Connect!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
 
 <p align="center">
@@ -81,7 +78,7 @@
 <h2 align="center">📊  Github Stats</h2>
 <br/>
 
-<div>
+<div align="center">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" align="center"/>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" align="center"/>
 </div>
