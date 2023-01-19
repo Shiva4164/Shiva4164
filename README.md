@@ -71,15 +71,18 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/4164sivaprasad/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
   <a title="chandragirisivaprasad1@gmail.com" href="mailto:chandragirisivaprasad1@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-<!--   <a href="https://wa.me/919951282620" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a> -->
-<!-- <a href="https://twitter.com/madavanaru?s=20&t=casGFqKvivZrUiWdPyUosQ" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  alt="portfolio" /></a> -->
+ 
 </p>
 <h2>📊  Github Stats</h2>
 <br/>
 
-<div>
+<!-- <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" />
   <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" />
+</div> -->
+<div>
+  <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Akhil0425&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" width="50%" alt="Akhil's github stats" /></a>
+ <a href="https://github.com/Akhil0425"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil0425&layout=compact&theme=buefy&hide_border=true" width="40%" /></a>
 </div>
  <br />
 <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Shiva4164&theme=rogue" alt="activitygraph" /> </p>
