@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! I'm Sivaprasad Chandragiri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
  <br> 
  
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=b440e2&size=24&width=500&lines=Full-Stack+Web+Developer;Nice+to+meet+you...)
  
  
- <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h3>
+ <h3 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building websites that improve the everyday experience for people.</h3>
 
 
 ### 👨🏻‍💻 About Me:
 
-<img   src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img   src="https://tse1.mm.bing.net/th?id=OIP.ql8TuCTff1A8odrS3K4JvAHaEX&pid=Api&P=0"
        height="200px" width="auto" align="right"
       />
 
@@ -24,10 +24,10 @@
 <br>
 <br>
 
-<!--  <h4 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h4> -->
+ <h3 align="center">"Programming is not a science. Programming is a craft" - <i>Richard Stallman</i></h3>
 
 <br>
-<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<h2 align="center"><i>Tech Stack </i></h2>
 <p align="center">
  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt=""/>
@@ -78,16 +78,11 @@
 
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Shiva4164&show_icons=true&theme=midnight-purple" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&theme=midnight-purple" />
 </div>
-<!-- <p align="center">
-<a href="https://github.com/Shiva4164">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shiva4164&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shiva4164&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p> -->
+
  <br />
-<p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Shiva4164&theme=rogue" alt="activitygraph" /> </p>
+<!-- <p align="center"><img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Shiva4164&theme=rogue" alt="activitygraph" /> </p> -->
 <br />
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva4164&theme=vision-friendly-dark" alt=""/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiva4164&theme=tokyonight" alt="summarycard"/> </p>
@@ -98,7 +93,7 @@
  Show some ❤️ by staring some of the repositories!
 </h3>
 <br>
-<!-- <h3 align="center"> 
+<h3 align="center"> 
   Visitor count <br><br>
   <img  src="https://profile-counter.glitch.me/Shiva4164/count.svg" />
-</h3> -->
+</h3>
