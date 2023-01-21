@@ -12,7 +12,7 @@
 <img   src="https://tse1.mm.bing.net/th?id=OIP.ql8TuCTff1A8odrS3K4JvAHaEX&pid=Api&P=0"
        height="200px" width="auto" align="right" margin-top="-20px"/>
 
-- 🙋‍♂️ **[About me](https://iridescent-mandazi-4f1f92.netlify.app/)**
+- 🙋‍♂️ **[About me](https://stupendous-zuccutto-54bd0f.netlify.app/)**
 
 - 💓 I love developing websites and coding.
 
