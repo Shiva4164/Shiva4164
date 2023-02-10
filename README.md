@@ -14,7 +14,7 @@
 
 - 🙋‍♂️ **[About me](https://sivaprasad416-portfolio.netlify.app/)**
 
-- **[Resume](https://drive.google.com/file/d/1GKwB_eFIWInpy5clPGsxC9B3qjs5zEcT/view?usp=sharing)**
+- 🙋‍ **[Resume](https://drive.google.com/file/d/1GKwB_eFIWInpy5clPGsxC9B3qjs5zEcT/view?usp=sharing)**
 
 - 💓 I love developing websites and coding.
 
